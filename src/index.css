@@ -304,3 +304,10 @@ Grocery List
 .clear-btn:hover {
   color: var(--clr-red-dark);
 }
+
+.contactform-div {
+  width: 350px;
+  margin-left: 780px;
+  margin-top: 50px;
+}
+
